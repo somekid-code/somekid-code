@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @somekid-code
+- 👀 I’m interested in ... python and robotics 
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... toat-aly normal code 
+- 📫 How to reach me ...mesage me thru github
